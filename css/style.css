@@ -1,0 +1,31 @@
+body
+{
+  background-color: #303030;
+}
+
+h1, p
+{
+  color:#303030;
+}
+
+.bg-custom1
+{
+  background-color: #ebebeb;
+}
+
+.m-cus
+{
+  margin-top: -3px;
+}
+
+.bg-home-cus
+{
+  background-color: #1a1a1a;
+  padding: 3rem 1rem;
+
+}
+
+.tulisan-putih
+{
+  color: white !important;
+}
